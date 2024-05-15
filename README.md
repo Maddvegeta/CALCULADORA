@@ -95,7 +95,7 @@ leia(Valor2)
                     se Divisao < 0 entao
             escreval("O numero é negativo.")
                         senao
-            escreval(("O numero é positivo.")
+            escreval("O numero é positivo.")
                          fimse
             escreval("Sua divisão é : ", Divisao)
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
