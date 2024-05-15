@@ -8,7 +8,7 @@ var
 Multiplicacao: real
 Divisao: real
 Valor1, Valor2: real
-Soma:real
+Soma: real
 Subtracao: real
 
 
